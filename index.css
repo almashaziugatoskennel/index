@@ -1,9 +1,13 @@
 
-h2 {text-align: center;
+
+h3 {text-align: center;
 }
 h5 {text-align: center;}
-p {font-size: large;
+p {text-align: justify;
+    font-size: large;
     margin: 10px;}
+
+    
 
 
 
