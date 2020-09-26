@@ -1,9 +1,10 @@
-html {
-    text-align-last: center; }
-    p {font-size: large;}
-    ul {font-size: large}
+nav {color: red}
 
-img {align-content: center;
-    width: 650px;}
+html {
+    text-align-last: center;}
+    p {font-size: large;}
+    ul {font-size: large;}
+
+img {width: 650px;}
 
 
