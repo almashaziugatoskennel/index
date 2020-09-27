@@ -1,6 +1,9 @@
 html {
     text-align-last: center;}
-    p {font-size: large;}
+    p {
+        font-size: large;
+        text-align: center;
+    }
     ul {font-size: large;}
 
 img {width: 40%;}
