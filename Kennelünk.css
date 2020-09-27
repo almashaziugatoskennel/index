@@ -1,14 +1,22 @@
 html {
     text-align-last: center;}
-    p {
-        font-size: 135%;
+
+h3 {
+    text-align-last: center;}
+
+h4 {
+    text-align-last: center;}
+
+p {
+        font-size: 130%;
         text-align: center;
     }
-    ul {
-        font-size: 135%;
+    
+ul {
+        font-size: 130%;
         text-align: center;
     }
 
-img {width: 40%;}
+img {width: 50%;}
 
 
