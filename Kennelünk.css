@@ -1,10 +1,13 @@
 html {
     text-align-last: center;}
     p {
-        font-size: large;
+        font-size: 135%;
         text-align: center;
     }
-    ul {font-size: large;}
+    ul {
+        font-size: 135%;
+        text-align: center;
+    }
 
 img {width: 40%;}
 
